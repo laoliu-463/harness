@@ -1,0 +1,16 @@
+# harness 常驻规则
+
+每次对话先读本仓库的 rules/standing-rules.md。
+用词以 GLOSSARY.md 为准。
+回复写法和 ste-zh 冲突时，以 ste-zh 为准。开发和学习任务的流程仍按 WORKFLOW.md。
+
+## EverOS 记忆
+
+用记忆前，先读本仓库的 rules/memory.md。下面三条最要紧：
+
+1. 只在复盘时写入。
+2. 启动记录授权了，才能写。
+3. 写完搜一次，搜到才算写成。
+
+每轮自动保存由 everos.ts 扩展完成，不算结论。
+结论用 everos-local 的工具写。
