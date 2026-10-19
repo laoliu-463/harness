@@ -1,0 +1,44 @@
+pstack/skills/poteto-mode/SKILL.md	103	## Writing the reply
+pstack/skills/poteto-mode/SKILL.md	105	Write the reply clean as you draft it
+pstack/skills/poteto-mode/SKILL.md	107	One thought per sentence
+pstack/skills/poteto-mode/SKILL.md	108	No long-dash character anywhere
+pstack/skills/poteto-mode/SKILL.md	109	colon as a mid-sentence connector
+pstack/skills/poteto-mode/SKILL.md	110	Terse is not an excuse to drop content
+pstack/skills/poteto-mode/SKILL.md	112	Never fabricate a link
+pstack/skills/poteto-mode/SKILL.md	113	Every claim carries its evidence or its label
+pstack/skills/poteto-mode/SKILL.md	113	Never hand the human a check you could run
+pstack/skills/unslop/SKILL.md	31	13. **Em dash overuse.**
+pstack/skills/unslop/SKILL.md	32	14. **Colon overuse.**
+pstack/skills/unslop/SKILL.md	57	28. **Shorten or split dense sentences.**
+pstack/skills/unslop/SKILL.md	62	33. **Over-compression.**
+pstack/skills/why/references/epistemics.md	5	## Confidence Tiers
+pstack/skills/why/references/epistemics.md	37	We searched X, Y, and Z
+pstack/skills/why/references/epistemics.md	55	absence of evidence into evidence of absence
+pstack/skills/why/references/epistemics.md	57	## The Sycophancy Trap
+pstack/skills/why/references/epistemics.md	59	one candidate among others
+mattpocock-skills/skills/productivity/writing-for-agents/SKILL.md	74	Prompt the **positive**
+mattpocock-skills/skills/productivity/wait-what/SKILL.md	7	ASD-STE100 Simplified Technical English
+mattpocock-skills/docs/productivity/wait-what.md	15	The leading word is **wait**
+mattpocock-skills/docs/productivity/wait-what.md	19	re-pitch **that**
+mattpocock-skills/docs/productivity/wait-what.md	27	## It's working if
+mattpocock-skills/docs/productivity/wait-what.md	32	does not degrade into terseness
+mattpocock-skills/skills/engineering/diagnosing-bugs/SKILL.md	12	## Redact
+mattpocock-skills/skills/engineering/diagnosing-bugs/SKILL.md	16	If the redacted output is not enough
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	3	## Structure
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	14	_Avoid_: Purchase, transaction
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	25	## Rules
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	28	Keep definitions tight
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	29	Only include terms specific
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	30	Group terms under subheadings
+mattpocock-skills/GLOSSARY.md	5	## Language
+mattpocock-skills/GLOSSARY.md	21	## Relationships
+mattpocock-skills/GLOSSARY.md	27	## Flagged ambiguities
+mattpocock-skills/skills/engineering/domain-modeling/SKILL.md	60	### Update GLOSSARY.md inline
+mattpocock-skills/skills/engineering/domain-modeling/SKILL.md	64	totally devoid of implementation details
+mattpocock-skills/skills/engineering/grill-with-docs/SKILL.md	7	"grilling" and "domain-modeling"
+mattpocock-skills/docs/engineering/domain-modeling.md	70	unreviewed, agent-authored glossary is worse than none
+mattpocock-skills/skills/productivity/teach/GLOSSARY-FORMAT.md	32	Use the glossary's own terms inside definitions
+mattpocock-skills/skills/productivity/teach/GLOSSARY-FORMAT.md	34	Flag ambiguities explicitly
+humanlayer-skills/plugins/rpi/skills/rpi/references/create-prd/process.md	23	## 3. Settle the Problem and Success Measure
+humanlayer-skills/plugins/rpi/skills/rpi/references/create-prd/process.md	29	Ask one question per message
+mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	34	One `GLOSSARY.md` at the repo root
