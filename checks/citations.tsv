@@ -42,3 +42,43 @@ mattpocock-skills/skills/productivity/teach/GLOSSARY-FORMAT.md	34	Flag ambiguiti
 humanlayer-skills/plugins/rpi/skills/rpi/references/create-prd/process.md	23	## 3. Settle the Problem and Success Measure
 humanlayer-skills/plugins/rpi/skills/rpi/references/create-prd/process.md	29	Ask one question per message
 mattpocock-skills/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md	34	One `GLOSSARY.md` at the repo root
+pstack/skills/in-your-own-words/SKILL.md	3	Restate in your own words
+pstack/skills/sharpen/SKILL.md	7	over- or underspecified
+mattpocock-skills/skills/productivity/grilling/SKILL.md	6	design tree
+mattpocock-skills/skills/productivity/grill-me/SKILL.md	7	Call the Skill tool with "grilling"
+mattpocock-skills/skills/engineering/grill-with-docs/SKILL.md	7	domain-modeling
+mattpocock-skills/skills/in-progress/loop-me/SKILL.md	8	only output is
+mattpocock-skills/skills/engineering/wayfinder/SKILL.md	9	naming it is the first act
+pstack/skills/figure-it-out/SKILL.md	19	falsifiable predicate
+pstack/skills/figure-it-out/SKILL.md	29	baseline captured
+mattpocock-skills/skills/engineering/to-spec/SKILL.md	7	Do NOT interview the user
+mattpocock-skills/skills/productivity/to-questionnaire/SKILL.md	3	questionnaire for someone else
+humanlayer-skills/plugins/design-control-loop/skills/design-control-loop/SKILL.md	26	Read the repo before you ask
+humanlayer-skills/plugins/rpi/skills/rpi/SKILL.md	3	explicitly invokes
+mattpocock-skills/skills/productivity/teach/SKILL.md	10	Teaching Workspace
+mattpocock-skills/skills/engineering/research/SKILL.md	10	primary sources
+pstack/skills/how/SKILL.md	9	how does X work
+pstack/skills/why/SKILL.md	9	motivation and intent
+mattpocock-skills/skills/productivity/handoff/SKILL.md	12	Reference them by path
+poteto-brainmaxxing/.agents/skills/brain/SKILL.md	12	speculative content
+mattpocock-skills/skills/engineering/domain-modeling/SKILL.md	3	GLOSSARY.md
+humanlayer-skills/plugins/show-me/skills/show-me/SKILL.md	9	pseudocode
+mattpocock-skills/skills/engineering/diagnosing-bugs/SKILL.md	18	Phase 1: Build a feedback loop
+mattpocock-skills/skills/engineering/tdd/SKILL.md	22	confirm them with the user
+mattpocock-skills/skills/engineering/tdd/SKILL.md	31	independent source of truth
+pstack/skills/principle-prove-it-works/SKILL.md	3	not a proxy
+pstack/skills/principle-explain-the-number/SKILL.md	9	why the number is not twice as good
+pstack/skills/benchmark-checklist/SKILL.md	11	one run is enough
+pstack/skills/benchmark-checklist/SKILL.md	15	Write down the claim
+pstack/skills/create-verification-skill/SKILL.md	11	Interview the repo, not the user
+mattpocock-skills/skills/engineering/prototype/SKILL.md	8	throwaway code that answers a question
+emilkowalski-skills/skills/prototype/SKILL.md	3	genuinely different versions
+emilkowalski-skills/skills/break-ui/SKILL.md	3	worst-case data
+pstack/skills/reflect/SKILL.md	9	route them into skill edits
+poteto-brainmaxxing/.agents/skills/reflect/SKILL.md	17	corrections received
+poteto-brainmaxxing/.agents/skills/ruminate/SKILL.md	10	past conversations
+poteto-brainmaxxing/.agents/skills/meditate/SKILL.md	10	Everything else is noise
+mattpocock-skills/skills/engineering/retro/SKILL.md	25	in order of severity
+pstack/skills/correct/SKILL.md	15	happened twice
+pstack/skills/principle-encode-lessons-in-structure/SKILL.md	3	instead of more text
+mattpocock-skills/skills/productivity/wait-what/SKILL.md	7	Re-pitch that
