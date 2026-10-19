@@ -6,6 +6,9 @@
 |---|---|---|
 | `codex-AGENTS-snippet.md` | Codex 的 `AGENTS.md` | 插在 ste-zh 那一块之前。 |
 | `cursor/harness-standing-rules.mdc` | Cursor 的 `rules` 目录 | 作为新的规则文件放进去。 |
+| `claude-code-CLAUDE-snippet.md` | Claude Code 的 `CLAUDE.md` | 加在文件末尾。 |
+| `pi/AGENTS.md` | Pi 的全局说明文件 `~/.pi/agent/AGENTS.md` | 新建。Pi 在 WSL 里，路径换成 WSL 里看到的写法。 |
+| `pi/mcp.json.snippet` | Pi 的 `~/.pi/agent/mcp.json` | 在 `mcpServers` 里加一项，原有的项不动。 |
 
 分发时，把相对路径换成本机 harness 仓库的完整路径。
 
