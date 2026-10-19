@@ -1,17 +1,16 @@
 ---
 name: 提出问题
-description: 大事闭环的第一个环节。先判断要不要追问。要追问时，用设计树把问题、真正目标和完成标准问清楚，用户确认后才进入收集信息。读 EverOS 时按 rules/memory.md。
+description: 大事闭环的第一个环节。先判断要不要追问。要追问时，用设计树把问题、真正目标和完成标准问清楚。用户确认简报之后才进入收集信息。开始时按 rules/memory.md 第 2 节搜。
 ---
 
 # 提出问题
 
-这个技能把多份原技能里对得上「动手之前先问清楚」的做法收成一件事。小事不进入这里。
+这个技能把多份原技能里对得上「动手之前先问清楚」的做法收成一件事。进入这个技能的都是大事。
 
 ## 来源
 
 | 原文 | 用的部分 |
 |---|---|
-| `sources\poteto-brainmaxxing\.agents\skills\plan\SKILL.md` | Step 0。一两处改动、做法已经明显的，不要计划。 |
 | `sources\pstack\skills\in-your-own-words\SKILL.md` | 用自己的话复述目标和要解决的问题。 |
 | `sources\pstack\skills\sharpen\SKILL.md` | 专家会怎么做、用户真正要什么、规格过紧还是过松。该用户决定的选择先留着。 |
 | `sources\mattpocock-skills\skills\productivity\grilling\SKILL.md` | 设计树。一轮只问前提已定的问题。每题给推荐答案。事实自己查。理解一致之前不开始做。 |
@@ -23,13 +22,14 @@ description: 大事闭环的第一个环节。先判断要不要追问。要追�
 | `sources\mattpocock-skills\skills\engineering\to-spec\SKILL.md` | 树走完后，把已经谈过的内容收成简报，不再追加追问。 |
 | `sources\mattpocock-skills\skills\productivity\to-questionnaire\SKILL.md` | 缺的事实在另一个人那里时，写成问卷交给那个人。 |
 | `sources\humanlayer-skills\plugins\design-control-loop\skills\design-control-loop\SKILL.md` | 先找仓库里已有的选项，再谈取舍，同意之后才往下做。 |
-| `rules/memory.md` | 这一环要读 EverOS 时，按那份规则。不在这里重写读法。 |
+| `sources\humanlayer-skills\plugins\rpi\skills\rpi\references\create-prd\process.md` | 第 3 节。先把问题定下来，再定怎样判断做成了。 |
+| `rules/memory.md` | 第 2 节。开始时搜。开场简报列出每一条，标明用上、没用上或已过时。 |
 
 ## 做什么
 
-先看这件事是不是小事。一两处改动、做法已经明显、也不含撤不回的行动，就直接说不用走这个环节，然后停。这和入口里的小事是同一条。
+开始时按 `rules/memory.md` 第 2 节搜。这一环不往 EverOS 写。读法不在这个技能里重写。
 
-不是小事时，先用自己的话复述用户的目标和要解决的问题。要读 EverOS 时，按 `rules/memory.md`。这一环不往 EverOS 写。读法不在这个技能里重写。接着问三件已经能问的事：专家会怎么做，用户真正要什么，规格是过紧还是过松。该由用户决定的选择先留着，不替他定。
+先用自己的话复述用户的目标和要解决的问题。接着问三件已经能问的事：专家会怎么做，用户真正要什么，规格是过紧还是过松。该由用户决定的选择先留着，不替他定。
 
 然后把还没定的决定画成树。一轮只问前提已经定了的问题。每题给出推荐答案，用户回「是」就采纳。事实自己查，不问用户。只有偏好、底线和取舍才问用户。已经定下的术语随手记进简报。
 
@@ -46,6 +46,7 @@ description: 大事闭环的第一个环节。先判断要不要追问。要追�
 写进「提出问题」。
 
 - 开场简报：问题、价值标准、投入上限、推荐方案和理由、风险，以及已经定下和还没定的决定。
+- EverOS 查到的经验：每一条标明用上、没用上或已过时。没有就写没有。
 - 用户原话。
 
 目标、关键取舍、研究范围、投入上限没写明，收集信息不开工。仍需调查的事实可以留下。

@@ -19,6 +19,7 @@ description: 大事闭环的第四个环节。从这次对话抽出下次还会�
 | `sources\pstack\skills\correct\SKILL.md` | 同一类错误出现两次才当成一类。先改结构，再类型，再检查，再测试，说明放最后。新检查要在一次真实的旧错误上失败。 |
 | `sources\pstack\skills\principle-encode-lessons-in-structure\SKILL.md` | 能写成检查脚本、标记或运行时约束的，就改结构。做不到的，才把说明写得更显眼，并举一个失败例子。 |
 | `sources\poteto-brainmaxxing\.agents\skills\brain\SKILL.md` | 不是明确会让以后做得更好，就不写。推测性的内容不进记录。一个主题一份。 |
+| `sources\mattpocock-skills\skills\productivity\wait-what\SKILL.md` | 用户说没看懂时要重讲。复盘时数这次出现了几次。 |
 | `rules/memory.md` | 要读或写 EverOS 时，按那份规则。不在这里重写读写方法。 |
 | `rules/standing-rules.md` 第 3 节第 4 条 | 这一节写完，把任务记录交给审查者审查。不写审查者怎么审查。 |
 | `GLOSSARY.md` 的「审查者」 | 审查者只给结论。 |
@@ -26,6 +27,8 @@ description: 大事闭环的第四个环节。从这次对话抽出下次还会�
 ## 做什么
 
 先从这次对话找教训。看纠正、偏好、踩坑、重复的手工步骤，以及找文件、自动检查、规范和工具花费上的摩擦。一次性的做法不算。琐碎的、已经记下的，跳过。
+
+再看三件事。「没看懂」出现了几次。有没有该查而没查的。哪些来源被证明是错的。
 
 这次对话不够，再翻过去的对话，并和已有记录对照，避免再写一遍。
 
